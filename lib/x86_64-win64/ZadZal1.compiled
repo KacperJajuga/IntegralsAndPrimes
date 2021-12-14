@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1381336890"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Algorytmy i struktyry danych\ZadanieZaliczeniowe\lib\x86_64-win64&quot; &quot;-FuC:\Algorytmy i struktyry danych\ZadanieZaliczeniowe\&quot; &quot;-FUC:\Algorytmy i struktyry danych\ZadanieZaliczeniowe\lib\x86_64-win64\&quot; &quot;-FEC:\Algorytmy i struktyry danych\ZadanieZaliczeniowe\&quot; &quot;-oC:\Algorytmy i struktyry danych\ZadanieZaliczeniowe\ZadZal1.exe&quot; ZadZal1.pas"/>
+</CONFIG>
